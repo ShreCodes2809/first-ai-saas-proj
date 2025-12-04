@@ -18,7 +18,8 @@
     "react-dom": "^19.2.1",
     "react-markdown": "^10.1.0",
     "remark-breaks": "^4.0.0",
-    "remark-gfm": "^4.0.1"
+    "remark-gfm": "^4.0.1",
+    "vercel": "^28.18.5"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
